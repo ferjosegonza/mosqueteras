@@ -1,0 +1,13 @@
+input[type="submit"]{
+  width: 100%;
+  font-size:16px;
+    font-weight:bold;
+    color:white;
+    background:#638cb5;
+    border:0px;
+    height:29px;
+}
+
+input[type="number"]{
+  width: 4em;
+}
