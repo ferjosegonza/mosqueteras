@@ -13,7 +13,7 @@ fecha();
 <head>
 <link type="text/css" rel="stylesheet" href="css/estilo.css">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1; no-cache"/>
-<title>SI.GE.A. de la rama develop</title>
+<title>SI.GE.A. de la rama develop de mi carpeta local</title>
 <style type="text/css">
 <!--
 body {
